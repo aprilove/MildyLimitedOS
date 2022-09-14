@@ -1,4 +1,6 @@
 *.o
 .vscode/
+.idea/
+object/
 *.bin
 *.iso
